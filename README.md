@@ -4,7 +4,7 @@
 
 # 🛡️ Group Policy & Account Management in Active Directory
 
-This lab explores managing user accounts and security policies within an Active Directory domain using Group Policy. Key objectives include configuring account lockout policies, resetting user passwords, unlocking accounts, and auditing failed login attempts — essential tasks for IT administrators.
+Here, I explored managing user accounts and security policies within an Active Directory domain using Group Policy. Key objectives include configuring account lockout policies, resetting user passwords, unlocking accounts, and auditing failed login attempts — essential tasks for IT administrators.
 
 ---
 
