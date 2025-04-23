@@ -8,7 +8,7 @@ Here, I explored managing user accounts and security policies within an Active D
 
 ---
 
-## 🖼️ Lab Overview (Screenshots + Descriptions)
+## Lab Overview
 
 ### 1. Opening Group Policy Management
 ![Open GPO](Group%20Policy%20and%20Managing%20Accounts/1.%20In%20our%20Domain%20run%20Group%20Policy%20.png)
